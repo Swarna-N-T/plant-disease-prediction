@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets and large files
+data/
+*.zip
+
+# Ignore trained models (can be very large)
+saved_models/
+*.h5
+
+# Ignore virtual environments
+venv/
+.env/
