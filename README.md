@@ -40,8 +40,7 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
 ---
 
 ## 📌 Dataset
-- The project uses the PlantVillage dataset from Kaggle
-
+- The project uses the [PlantVillage dataset](https://data.mendeley.com/datasets/tywbtsjrjv/1) from Kaggle
 ---
 
 ## 📊 Results
@@ -50,4 +49,5 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
 - Confusion matrix and training curves are available in results/
 
 ---
+
 
