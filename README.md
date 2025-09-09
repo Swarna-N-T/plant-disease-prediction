@@ -26,15 +26,19 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
    cd plant-disease-detection
 
 2. Install dependencies:
+   ```bash
     pip install -r requirements.txt
 
 3. Train models:
+   ```bash
     python src/train.py
 
 4. Run Gradio app:
+   ```bash
     python app/gradio_app.py
 
 5. Run Streamlit app:
+   ```bash
     streamlit run app/streamlit_app.py
 
 ---
@@ -49,5 +53,6 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
 - Confusion matrix and training curves are available in results/
 
 ---
+
 
 
