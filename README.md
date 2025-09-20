@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection
 
-This project detects plant leaf diseases using **Machine Learning (SVM, Random Forest)** and **Deep Learning (Custom CNN)**.  
+This project detects plant leaf diseases using **Machine Learning (Random Forest)** and **Deep Learning (Custom CNN)**.  
 It also includes a **Gradio/Streamlit app** for easy predictions from uploaded leaf images.
 
 ---
@@ -8,7 +8,6 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
 ## 🚀 Features
 - Preprocessing: Image resizing, normalization, label encoding
 - Models:
-  - Support Vector Machine (SVM)
   - Random Forest
   - Convolutional Neural Network (CNN)
 - User Interfaces:
@@ -49,10 +48,10 @@ It also includes a **Gradio/Streamlit app** for easy predictions from uploaded l
 
 ## 📊 Results
 - CNN Accuracy: ~89% (can be improved with data augmentation / transfer learning)
-- SVM & Random Forest: Lower than CNN
-- Confusion matrix and training curves are available in results/
+- Random Forest: Lower than CNN
 
 ---
+
 
 
 
